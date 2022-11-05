@@ -1,0 +1,11 @@
+1. 蛇形数组
+
+2.读文件的迷宫
+
+3.合并果子  /  参加比赛 https://www.luogu.com.cn/problem/P1803
+
+4.跳台阶
+
+5.全排列 https://www.luogu.com.cn/problem/P1706
+
+6.记忆化搜索 滑雪 https://www.luogu.com.cn/problem/P1434
